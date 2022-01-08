@@ -65,6 +65,7 @@ body{
 
 .raz {
     color: hsl(31, 77%, 52%);
+    background-color: white;
 }
 
 .raz:hover{
@@ -76,6 +77,7 @@ body{
 
 .dv {
     color: hsl(184, 100%, 22%);
+    background-color: white;
 }
 
 .dv:hover {
@@ -87,6 +89,7 @@ body{
 
 .tr {
     color: hsl(179, 100%, 13%);
+    background-color: white;
 }
 
 .tr:hover{
